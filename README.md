@@ -18,4 +18,4 @@ Cycads outside the conservation plots were photographed with GPS coordinates bei
 
 * No CAS predators or parasites were observed on any of the cycads in the conservation plots.
 
-![](northern-tinian.jpg)
+![](northern-Tinian.png)
