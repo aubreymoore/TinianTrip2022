@@ -17,5 +17,8 @@ Cycads outside the conservation plots were photographed with GPS coordinates bei
 ### Results
 
 * No CAS predators or parasites were observed on any of the cycads in the conservation plots.
+* Only one of the 19 cycads we found growing outside the conservation plots was infested with CAS. This plant was located on Mt. Lasu at the head of the trail leading down to the conservation plots.
 
 ![](northern-Tinian.png)
+
+![](southern-Tinian.jpg)
