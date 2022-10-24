@@ -21,4 +21,4 @@ Cycads outside the conservation plots were photographed with GPS coordinates bei
 
 ![](northern-Tinian.png)
 
-![](southern-Tinian.jpg)
+![](southern-Tinian.png)
